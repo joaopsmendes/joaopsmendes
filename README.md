@@ -16,9 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ## Connect with me:
-<a href="https://www.instagram.com/joaopsmendes/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joaopsmendes" height="30" width="40" /></a>
-</p>
-<p align="left"> <a href="https://twitter.com/joaopsmendes40" target="blank"><img src="https://img.shields.io/twitter/follow/joaopsmendes40?logo=twitter&style=for-the-badge" alt="joaopsmendes40" /></a>
-</p>
-
-
+[<img align="left" alt="joaopsmendes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="joaopsmendes40 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
