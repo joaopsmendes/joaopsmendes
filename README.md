@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am João Mendes 👋
 
 <!--
 **joaopsmendes/joaopsmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Connect with me:
+<a href="https://www.instagram.com/joaopsmendes/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joaopsmendes" height="30" width="40" /></a>
+</p>
+<p align="left"> <a href="https://twitter.com/joaopsmendes40" target="blank"><img src="https://img.shields.io/twitter/follow/tomsogando?logo=twitter&style=for-the-badge" alt="tomsogando" /></a>
+</p>
+
+
