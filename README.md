@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 Badge | URL
 ------------ | -------------
-![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram") | `https://www.instagram.com/joaopsmendes/`
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> | `https://www.instagram.com/joaopsmendes/`
+[![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram")](https://www.instagram.com/joaopsmendes/) | `https://www.instagram.com/joaopsmendes/`
+[![twitter](https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Twitter")](https://twitter.com/joaopsmendes40)| `https://twitter.com/joaopsmendes40`
 
 
 
