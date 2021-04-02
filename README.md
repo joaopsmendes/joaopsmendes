@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Badge | URL
 ------------ | -------------
-<[![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram")](https://www.instagram.com/joaopsmendes/)/> | `https://www.instagram.com/joaopsmendes/`
+[![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram")](https://www.instagram.com/joaopsmendes/) | `https://www.instagram.com/joaopsmendes/`
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> | `https://www.instagram.com/joaopsmendes/`
 
 
