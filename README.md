@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 ## Connect with me:
 
------------- 
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram")](https://www.instagram.com/joaopsmendes/)  
-[![twitter](https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=twitter&logoColor=white "Twitter")](https://twitter.com/joaopsmendes40) 
+[![twitter](https://img.shields.io/badge/Twitter-0000FF?style=for-the-badge&logo=twitter&logoColor=white "Twitter")](https://twitter.com/joaopsmendes40) 
 
 
 
