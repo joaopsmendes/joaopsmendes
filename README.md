@@ -1,4 +1,4 @@
-### Hi, I am João Mendes 👋
+### Hi, I'm João Mendes 👋
 
 <!--
 **joaopsmendes/joaopsmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
