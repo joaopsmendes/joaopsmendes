@@ -4,7 +4,7 @@
 **joaopsmendes/joaopsmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 📫 How to reach me **joao.ps.mendes2011@gmail.com**
+- 📫 How to reach me 
 
 
 <h3 align="left">Languages and Tools:</h3>
