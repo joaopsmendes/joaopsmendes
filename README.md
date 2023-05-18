@@ -14,6 +14,9 @@
 
 [![insta](https://img.shields.io/badge/Instagram-f58529?style=for-the-badge&logo=instagram&logoColor=white "Instagram")](https://www.instagram.com/joaopsmendes/)  
 [![twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white "Twitter")](https://twitter.com/joaopsmendes40) 
+ icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/joaopsmendes"
 
 
 
